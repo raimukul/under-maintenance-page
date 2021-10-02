@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <header>
           <span id="logo-wrap">
-            <img src="https://creativecrunk.com/wp-content/plugins/under-construction-page/themes/plain_text/ucp-cog.png" alt="Site is Under Construction" title="Site is Under Construction" id="logo"></img>
+            <img src="./ucp-cog.png" alt="Site is Under Construction" title="Site is Under Construction" id="logo"></img>
           </span>
         </header>
         <div className="container">
